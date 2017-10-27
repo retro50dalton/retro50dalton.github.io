@@ -73,21 +73,21 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Votre nom *" required data-validation-required-message="Entrez votre nom s'il vous plait.">
+                    <input class="form-control" id="name" type="text" placeholder="Votre nom *" required data-validation-required-message="Please enter your name.">
                     <p class="help-block text-danger"></p>
                   </div>
                   <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="Votre Email *" required data-validation-required-message="Entrez votre Emails'il vous plait.">
+                    <input class="form-control" id="email" type="email" placeholder="Votre Email *" required data-validation-required-message="Please enter your email address.">
                     <p class="help-block text-danger"></p>
                   </div>
                   <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="Votre Téléphone *" required data-validation-required-message="Entrez votre téléphone s'il vous plait.">
+                    <input class="form-control" id="phone" type="tel" placeholder="Votre Téléphone *" required data-validation-required-message="Please enter your phone number.">
                     <p class="help-block text-danger"></p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Votre Message *" required data-validation-required-message="Entrez votre demande spéciale s'il vous plait."></textarea>
+                    <textarea class="form-control" id="message" placeholder="Votre Message *" required data-validation-required-message="Please enter a message."></textarea>
                     <p class="help-block text-danger"></p>
                   </div>
                 </div>
