@@ -63,7 +63,8 @@ body {
   -webkit-tap-highlight-color: #fed136; }
 
 #mainNav {
-  background-color: #222222; }
+  background-color: #222222; 
+  }
   #mainNav .navbar-toggler {
     font-size: 12px;
     right: 0;
@@ -600,3 +601,7 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #fed136;
     background-color: white; }
+.ggg {
+
+  text-align: center;
+}
